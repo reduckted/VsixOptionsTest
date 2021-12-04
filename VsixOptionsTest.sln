@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VsixOptionsTest", "VsixOptionsTest\VsixOptionsTest.csproj", "{83E108D7-F3AD-4302-8800-1314253E5253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Debug|x86.ActiveCfg = Debug|x86
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Debug|x86.Build.0 = Debug|x86
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Release|x86.ActiveCfg = Release|x86
+		{83E108D7-F3AD-4302-8800-1314253E5253}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F103FB-F237-4438-AAE0-A98FBE023909}
+	EndGlobalSection
+EndGlobal

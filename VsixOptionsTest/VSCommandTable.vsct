@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+  <Include href="KnownImageIds.vsct"/>
+  <Include href="VSGlobals.vsct"/>
+
+  <Commands package="VsixOptionsTest">
+  </Commands>
+
+  <Symbols>
+    <GuidSymbol name="VsixOptionsTest" value="{4b97f03d-333d-4acf-9244-42a23309c2af}">
+      
+    </GuidSymbol>
+  </Symbols>
+</CommandTable>
